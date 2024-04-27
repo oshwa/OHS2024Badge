@@ -63,7 +63,7 @@ There are easier ways to hold the pins to the badge, such as a clip or a custom 
 
 The default code already loaded on the badge is available in the example folder: [examples/DefaultBadge/OHS2024BadgeDefault.ino](examples/DefaultBadge/OHS2024BadgeDefault.ino)
 
-A simplified sample is provided in the main directory: [OHS2024BadgeDefault.ino](OHS2024BadgeDefault.ino).
+A simplified sample is provided in the main directory: [OHS2024Badge.ino](OHS2024Badge.ino).
 
 You can modify it to make your own custom animations!
 
