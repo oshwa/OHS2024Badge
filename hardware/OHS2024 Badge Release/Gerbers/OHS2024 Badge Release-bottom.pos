@@ -1,0 +1,11 @@
+### Footprint positions - created on 2024 April 28, Sunday 15:43:04 ###
+### Printed by KiCad version 7.0.1-0
+## Unit = mm, Angle = deg.
+## Side : bottom
+# Ref     Val                   Package                                    PosX       PosY       Rot  Side
+                                                                         3.5300     3.2300  180.0000  bottom
+                                                                        84.4600     2.7800  180.0000  bottom
+                                97555b4e-9b7d-406b-90f1-653a2ee528b9    47.1400    71.8900  180.0000  bottom
+REF**     Machine_Mount_1.05mm  Machine_Mount_1.05mm                    26.1000   106.9100  180.0000  bottom
+REF**     Machine_Mount_1.05mm  Machine_Mount_1.05mm                    75.1200   103.4200  180.0000  bottom
+## End

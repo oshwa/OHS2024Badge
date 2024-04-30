@@ -1,0 +1,37 @@
+### Footprint positions - created on 2024 April 28, Sunday 15:43:04 ###
+### Printed by KiCad version 7.0.1-0
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val                        Package                                                  PosX       PosY       Rot  Side
+BT1       CR20322                    BADGE_-_CR2032_HOLDER_C964760                         24.7500    18.1000   90.0000  top
+C1        0.1uF                      BADGE_-_C_0805                                        38.0200    21.0100   90.0000  top
+D1        LED_RABG                   BADGE_-_LED_RGB_Reverse_XZMDKCBDDG45S-9               32.8600   101.4200   90.0000  top
+D2        LED_RABG                   BADGE_-_LED_RGB_Reverse_XZMDKCBDDG45S-9               47.0600   118.5500    0.0000  top
+D3        LED_RABG                   BADGE_-_LED_RGB_Reverse_XZMDKCBDDG45S-9               61.7300   101.8200   90.0000  top
+D4        LED_RABG                   BADGE_-_LED_RGB_Reverse_XZMDKCBDDG45S-9               41.2400    83.9200   90.0000  top
+D5        LED_RABG                   BADGE_-_LED_RGB_Reverse_XZMDKCBDDG45S-9               43.8100    68.3900   90.0000  top
+D6        LED_RABG                   BADGE_-_LED_RGB_Reverse_XZMDKCBDDG45S-9               50.2900    69.4400   90.0000  top
+D7        LED_RABG                   BADGE_-_LED_RGB_Reverse_XZMDKCBDDG45S-9               54.0700    70.2400   90.0000  top
+D8        LED_RABG                   BADGE_-_LED_RGB_Reverse_XZMDKCBDDG45S-9               56.0750    85.8500   90.0000  top
+D10       D                          BADGE_-_DO-214AC                                      56.0800     5.6300  -90.0000  top
+G***      LOGO                       Logo_-_Cyber_City_Circuits_-_Two_Line_30mm_(Shiny)    70.6100    25.4500    0.0000  top
+J1        USB_C_Power_Only_C2927027  BADGE_-_USB_C_Power_Only_C2927027                     43.9600     4.3500  180.0000  top
+J2        ICSP_Header                Badge_-_ICSP_Header_(SMT)                             11.7200     4.0900    0.0000  top
+J3        SAO_Header                 Badge_-_SAO_Header                                     8.6400    21.6100    0.0000  top
+R2        5.1kΩ                     BADGE_-_R_0805                                        34.5200     4.1850  -90.0000  top
+R3        5.1kΩ                     BADGE_-_R_0805                                        31.5700     4.1850  -90.0000  top
+R4        R_B                        BADGE_-_R_0805                                        38.9700    54.7900  -90.0000  top
+R5        R_G                        BADGE_-_R_0805                                        36.0200    54.7900  -90.0000  top
+R6        R_R                        BADGE_-_R_0805                                        33.0700    54.7900  -90.0000  top
+R10       100Ω                      BADGE_-_R_0805                                        18.8600    37.7200  -90.0000  top
+R11       100Ω                      BADGE_-_R_0805                                        25.7200    37.8800  -90.0000  top
+R12       100Ω                      BADGE_-_R_0805                                        33.0400    38.0200  -90.0000  top
+R13       100Ω                      BADGE_-_R_0805                                        39.6900    38.0400  -90.0000  top
+R14       100Ω                      BADGE_-_R_0805                                        48.1300    38.1350  -90.0000  top
+R15       100Ω                      BADGE_-_R_0805                                        56.1500    37.8100  -90.0000  top
+R16       100Ω                      BADGE_-_R_0805                                        62.7300    38.2700  -90.0000  top
+R17       100Ω                      BADGE_-_R_0805                                        70.7100    37.9500  -90.0000  top
+SW1       SW_SPDT                    BADGE_-_SWITCH_C963207                                65.5000     6.5400    0.0000  top
+SW2       SW_Push                    BADGE_-_BUTTON                                        76.2800     6.7300   90.0000  top
+U1        ATmega328PB-A              TQFP-32_7x7mm_P0.8mm                                  47.2400    21.3900    0.0000  top
+## End
