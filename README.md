@@ -40,10 +40,11 @@ Connect the USBtinyISP programmer to your computer.
 From the *Tools* menu select:
 
 - Board: -> MiniCore -> ATmega328
-- Port: -> (*USB serial port of USBtinyISP*)
 - Clock: -> Internal 8 MHz
 - Variant: -> 328PB
 - Programmer: -> USBtinyISP
+
+**NOTE**: You do not need to set the port, the programmer will be seen as a USB device by the operating system.
 
 Build the code by selecting from the menu *Sketch -> Verify/Compile*. If all goes well, the code should compile without any errors.
 
@@ -53,7 +54,7 @@ Now for the tricky part: We have to hold the programmer spring-loaded (pogo) pin
 
 <img alt="Pin labels on programmer and badge PCB." src="images/iscp_pins.jpg" width="400px">
 <img alt="Close up of spring-loaded pogo pins." src="images/pogo_pins.jpg" width="400px">
-<img alt="Close up of spring-loaded pogo pins." src="images/pinching_pogo.jpg" width="400px">
+<img alt="Fingers holding spring-loaded pogo pins on badge." src="images/pinching_pogo.jpg" width="400px">
 
 While holding the pins directly onto the badge, in the Arduino IDE click the menu item *Sketch -> Upload Using Programmer* and wait for the upload process to finish. The upload progress is shown in the IDE Output.
 
