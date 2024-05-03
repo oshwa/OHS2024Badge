@@ -2,18 +2,18 @@
 Some of the badges distributed at OHS 2024 came without electronic components, unfortunately. However, we've put together some parts kits for you to try assembling it yourself!
 ## Parts List
 You should have received the following:
-- 1 Battery Holder
-- 1 Pushbutton
-- 1 Slide Switch
-- 1 SAO header
-- 1 USB Type C connector
-- 1-2 Diodes (you only need one, we tried to give you a spare)
-- 8 LEDs (we have a few spares, but please be careful - you need 8)
-- 2 ATMEGA328PB Microcontrollers (you only need one, we gave you a spare)
-- 2 0.1uF capacitors (short paper tape, parts are brown with silver ends. You only need one, we gave you a spare)
-- 3 270 ohm resistors (blue stripe on the paper tape. You only need one, we gave you a spare)
-- 15 100 ohm resistors (long paper tape. You only need 10, we gave you spares)
-- 4 5.1K ohm resistors (short paper tape. You only need two, we gave you spares)
+- 1x Battery Holder
+- 1x Pushbutton
+- 1x Slide Switch
+- 1x SAO header
+- 1x USB Type C connector
+- 1-2x Diodes (you only need one, we tried to give you a spare)
+- 8x LEDs (we have a few spares, but please be careful - you need 8)
+- 2x ATMEGA328PB Microcontrollers (you only need one, we gave you a spare)
+- 2x 0.1uF capacitors (short paper tape, parts are brown with silver ends. You only need one, we gave you a spare)
+- 3x 270 ohm resistors (blue stripe on the paper tape. You only need one, we gave you a spare)
+- 15x 100 ohm resistors (long paper tape. You only need 10, we gave you spares)
+- 4x 5.1K ohm resistors (short paper tape. You only need two, we gave you spares)
 
 Here's a photo of the parts you should have:
 <img alt="Top view of the parts provided in the kit, with text labels for each part." src="images/kit_parts.JPG" width="800px">
