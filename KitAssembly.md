@@ -16,7 +16,7 @@ You should have received the following:
 - 4 5.1K ohm resistors (short paper tape. You only need two, we gave you spares)
 
 Here's a photo of the parts you should have:
-<img alt="Top view of the parts provided in the kit, with text labels for each part." src="images/kit_parts.jpg" width="800px">
+<img alt="Top view of the parts provided in the kit, with text labels for each part." src="images/kit_parts.JPG" width="800px">
 
 ## Where the parts go
 The diagram below shows where the parts go on the board:
