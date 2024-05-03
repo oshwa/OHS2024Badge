@@ -28,6 +28,8 @@ The badge is compatible with Arduino IDE. However, there is no USB data connecti
 
 <img alt="USBtinyISP programmer." src="images/usbtiny_programmer.jpg" width="600px">
 
+You may need to install drivers on Windows: [https://learn.adafruit.com/usbtinyisp/download](https://learn.adafruit.com/usbtinyisp/download)
+
 ### Setup Arduino IDE
 
 The board uses [MiniCore](https://github.com/MCUdude/MiniCore) with the [Arduino IDE](https://www.arduino.cc/en/software). Follow these instructions to install MiniCore:
