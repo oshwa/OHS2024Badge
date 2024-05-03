@@ -29,12 +29,12 @@ The biggest thing to be aware of is the mounting of the LEDs:
 - When you mount the LED to the board, note that one of the pins of the LED is chamfered (has a corner cut off). This pin should not be placed on the pad with the white stripe - it should be on the pin diagonally across from that.
 
 LEDs before you bend them:
-<img alt="LED side view, before bending" src="images/led_before_bend_side.jpg" width="300px">
-<img alt="LED face, before bending" src="images/led_before_bend_face.jpg" width="300px">
+<img alt="LED side view, before bending" src="images/led-before-bend-side.jpg" width="300px">
+<img alt="LED face, before bending" src="images/led-before-bend-face.jpg" width="300px">
 
 LEDs after you bend them:
-<img alt="LED side view, after bending" src="images/led_after_bend_side.jpg" width="300px">
-<img alt="LED face, after bending" src="images/led_after_bend_face.jpg" width="300px">
+<img alt="LED side view, after bending" src="images/led-after-bend-side.jpg" width="300px">
+<img alt="LED face, after bending" src="images/led-after-bend-face.jpg" width="300px">
 
 Some other notes on placing the parts:
 - The capacitors and resistors don't care which way they go on the board - there are two ways that they fit, and both work fine
