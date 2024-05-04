@@ -38,6 +38,9 @@ LEDs after you bend them:
 <img alt="LED side view, after bending" src="images/led-after-bend-side.jpg" width="300px">
 <img alt="LED face, after bending" src="images/led-after-bend-face.jpg" width="300px">
 
+LED alignment on the board:
+<img alt="LED face, after bending" src="images/led-alignment.jpg" width="300px">
+
 Some other notes on placing the parts:
 - The capacitors and resistors don't care which way they go on the board - there are two ways that they fit, and both work fine
 - The diode is polarized. If you look at it from the right angle, you'll see a stripe on one side. This lines up with a white stripe on the board.
