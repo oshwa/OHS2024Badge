@@ -38,7 +38,7 @@ LEDs after you bend them:
 <img alt="LED side view, after bending" src="images/led-after-bend-side.jpg" width="300px">
 <img alt="LED face, after bending" src="images/led-after-bend-face.jpg" width="300px">
 
-LED alignment on the board:
+LED alignment on the board. White stripe circled in blue, chamfered pin circled in red:
 
 <img alt="LED face, after bending" src="images/led-alignment.jpg" width="300px">
 
