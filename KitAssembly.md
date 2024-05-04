@@ -39,6 +39,7 @@ LEDs after you bend them:
 <img alt="LED face, after bending" src="images/led-after-bend-face.jpg" width="300px">
 
 LED alignment on the board:
+
 <img alt="LED face, after bending" src="images/led-alignment.jpg" width="300px">
 
 Some other notes on placing the parts:
