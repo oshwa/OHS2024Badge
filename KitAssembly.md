@@ -1,6 +1,9 @@
 # OHS 2024 Badge Kit Assembly
 Some of the badges distributed at OHS 2024 came without electronic components, unfortunately. However, we've put together some parts kits for you to try assembling it yourself!
 ## Parts List
+
+The original parts list for the badge can be found here: [hardware/Parts_Shopping_List.pdf](hardware/Parts_Shopping_List.pdf)
+
 You should have received the following:
 - 1x Battery Holder
 - 1x Pushbutton
